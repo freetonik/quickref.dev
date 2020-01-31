@@ -1,9 +1,6 @@
-# Communities
 https://freecodecamp.org
 https://dev.to
 https://css-tricks.com
-
-# Companies
 https://erlang-solutions.com
 https://blog.cloudflare.com
 https://eng.uber.com/
@@ -33,8 +30,6 @@ https://tech.trivago.com/
 https://www.intercom.com/blog/
 https://engineering.klarna.com/
 https://blog.algolia.com/
-
-# Etc
 https://infoq.com
 https://github.io
 https://acolyer.org
