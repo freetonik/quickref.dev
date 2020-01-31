@@ -1,0 +1,19 @@
+"clojure clj":
+  name: "Clojure"
+  description: "Dynamically typed, functional dialect of Lisp. Immutable values, strong typing, hosted on JVM and other platforms."
+  links:
+    website: "https://clojure.org/"
+    quickstart: "https://clojure.org/guides/getting_started"
+    "community docs": "https://clojuredocs.org/"
+    "Learn in Y minutes": "https://learnxinyminutes.com/docs/clojure/"
+    "Q&A forum": "https://ask.clojure.org/"
+    "Clojurians Slack": "https://clojurians.herokuapp.com/"
+    "Mailing list": "https://groups.google.com/forum/#!forum/clojure"
+    subreddit: "https://old.reddit.com/r/Clojure/"
+
+"go golang":
+  name: "Go"
+  description: "Statically typed, compiled programming language. Syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency."
+  links:
+    website: "https://golang.org/"
+    quickstart: "https://golang.org/doc/install"

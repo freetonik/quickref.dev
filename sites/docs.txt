@@ -1,0 +1,154 @@
+# Python
+https://python.org
+https://djangoproject.com
+https://pypi.org
+https://tensorflow.org
+https://pandas.pydata.org
+https://pytorch.org
+http://palletsprojects.com
+
+# JavaScript & JS VM
+https://v8.dev
+https://js.org
+https://reactjs.org
+https://angular.io
+https://svelte.dev
+https://electronjs.org
+https://elm-lang.org
+https://vuejs.org/
+https://typescriptlang.org
+https://jquery.com
+https://expressjs.com
+https://npmjs.com
+https://nodejs.org
+https://nodejs.dev
+https://react-native.org
+
+# Web/HTML/CSS
+https://w3.org
+https://webassembly.org
+https://web.dev
+https://developer.chrome.com
+https://flutter.dev
+https://getbootstrap.com
+
+# Etc
+https://mozilla.org
+https://quickref.com
+https://github.com
+https://github.io
+https://learnxinyminutes.com
+https://developers.google.com
+https://developer.microsoft.com
+https://docs.microsoft.com
+https://exercism.io
+https://ibm.com
+https://wikibooks.org
+https://apidock.com
+https://wiki.c2.com
+https://devdocs.io
+https://rstudio.com
+https://spring.io
+https://readthedocs.org
+https://docs.rs
+https://elixir-lang.org
+https://dart.dev
+https://erlang.org
+https://raspberrypi.org
+https://openssl.org
+
+# .NET
+https://fsharp.org
+https://scala-lang.org
+https://dotnet.microsoft.com
+
+# Cloud/Devops/Infra
+https://docs.aws.amazon.com
+https://cloud.google.com
+https://digitalocean.com
+https://heroku.com
+https://docker.com
+https://ansible.com
+https://terraform.io
+https://kubernetes.io
+https://puppet.com
+https://chef.io
+https://capistranorb.com
+https://apache.org
+https://nginx.com
+
+
+# Java/Kotlin/JVM
+https://kotlinlang.org
+https://docs.oracle.com
+https://developer.android.com
+
+# Clojure
+https://clojure.org
+https://clojuredocs.org
+https://insideclojure.org
+
+# Go
+https://golang.org
+https://godoc.org/
+
+# Tools
+https://visualstudio.com
+https://docs.gitlab.com
+https://docs.datadoghq.com
+https://vim.org
+https://notepad-plus-plus.org
+https://jetbrains.com
+https://sublimetext.com
+https://chocolatey.org
+https://git-scm.com
+https://atom.io/
+
+# CMS
+https://wordpress.org
+https://gohugo.io/
+
+# PHP
+https://php.net
+https://laravel.com
+https://drupal.org
+
+# Haskell
+https://haskell.org
+
+# Linux/Unix/GNU
+https://kernel.org
+https://gentoo.org
+https://archlinux.org
+https://gnu.org
+https://openbsd.org
+https://help.ubuntu.com
+
+# DB/SQL/noSQL/Storage/Queues
+https://postgresql.org
+https://mongodb.com
+https://elastic.co
+https://mysql.com
+https://sqlite.org
+https://redis.io
+https://mariadb.org
+https://couchbase.com
+https://rethinkdb.com/
+https://rabbitmq.com
+
+# Swift
+https://swift.org
+https://developer.apple.com
+
+# Ruby/Rails
+https://ruby-lang.org
+https://rubydoc.info
+https://rubyonrails.org
+
+# Rust
+https://rust-lang.org
+
+# Graphics
+https://unity.com
+https://unity3d.com
+https://unrealengine.com

@@ -1,0 +1,43 @@
+# Communities
+https://freecodecamp.org
+https://dev.to
+https://css-tricks.com
+
+# Companies
+https://erlang-solutions.com
+https://blog.cloudflare.com
+https://eng.uber.com/
+https://eng.lyft.com/
+https://netflixtechblog.com/
+https://ai.googleblog.com/
+https://developers.googleblog.com/
+https://research.fb.com/
+https://engineering.fb.com
+https://developers.soundcloud.com/blog
+https://tech.ebayinc.com/
+https://devblogs.microsoft.com/
+https://slack.engineering/
+https://blog.twitter.com/
+https://blogs.dropbox.com/tech/
+https://netflixtechblog.com/
+https://blog.heroku.com/
+https://medium.com/airbnb-engineering
+https://word.bitly.com/
+https://engineeringblog.yelp.com/
+https://codeascraft.com/
+https://blog.digitalocean.com/
+https://auth0.com/blog/developers/
+https://instagram-engineering.com/
+https://stripe.com/en-fi/blog/engineering
+https://tech.trivago.com/
+https://www.intercom.com/blog/
+https://engineering.klarna.com/
+https://blog.algolia.com/
+
+# Etc
+https://infoq.com
+https://github.io
+https://acolyer.org
+https://wasmbyexample.dev
+https://ohshitgit.com
+https://www.toptal.com/developers/blog
