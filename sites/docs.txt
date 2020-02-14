@@ -31,6 +31,11 @@ https://web.dev
 https://developer.chrome.com
 https://flutter.dev
 https://getbootstrap.com
+https://www.howtographql.com
+https://www.apollographql.com
+https://www.w3schools.com
+https://cssreference.io/
+
 
 # Etc
 https://mozilla.org
@@ -56,6 +61,7 @@ https://dart.dev
 https://erlang.org
 https://raspberrypi.org
 https://openssl.org
+http://hyperpolyglot.org
 
 # .NET
 https://fsharp.org
@@ -123,6 +129,8 @@ https://archlinux.org
 https://gnu.org
 https://openbsd.org
 https://help.ubuntu.com
+https://linuxjourney.com/
+https://www.shellscript.sh/
 
 # DB/SQL/noSQL/Storage/Queues
 https://postgresql.org
