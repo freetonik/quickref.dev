@@ -17,3 +17,21 @@
   links:
     website: "https://golang.org/"
     quickstart: "https://golang.org/doc/install"
+
+"angular ng":
+  name: "Angular"
+  description: "TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations."
+  links:
+    website: "https://angular.io/"
+    "Getting Started": "https://angular.io/start"
+    "Start Working": "https://angular.io/guide/setup-local"
+
+"typescript ts":
+  name: "TypeScript"
+  description: "TypeScript is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript."
+  links:
+    website: "https://www.typescriptlang.org/"
+    "TypeScript in 5 minutes": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"
+    "Quick Start": "https://www.typescriptlang.org/Samples/"
+    "Documentation": "https://www.typescriptlang.org/docs/"
+    Playground: "http://www.typescriptlang.org/play/"
