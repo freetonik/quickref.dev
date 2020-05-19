@@ -2,3 +2,5 @@ https://github.com
 https://gitlab.com
 https://sourceforge.net
 https://sr.ht
+https://savannah.gnu.org
+https://savannah.nongnu.org

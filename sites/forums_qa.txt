@@ -8,3 +8,5 @@ https://lobste.rs/
 https://coderwall.com
 https://grokbase.com
 https://mail.openjdk.java.net
+https://lists.gnu.org
+https://lists.nongnu.org
