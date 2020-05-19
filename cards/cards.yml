@@ -35,3 +35,14 @@
     "Quick Start": "https://www.typescriptlang.org/Samples/"
     "Documentation": "https://www.typescriptlang.org/docs/"
     Playground: "http://www.typescriptlang.org/play/"
+
+"nim":
+  name: "Nim"
+  description: "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula."
+  links:
+    website: "https://nim-lang.org"
+    "Feature list": https://nim-lang.org/features.html
+    "Installation": https://nim-lang.org/install.html
+    "Tutorial": https://nim-lang.org/docs/tut1.html
+    "Playground": https://play.nim-lang.org
+    "Forum": https://forum.nim-lang.org/
