@@ -46,3 +46,16 @@
     "Tutorial": https://nim-lang.org/docs/tut1.html
     "Playground": https://play.nim-lang.org
     "Forum": https://forum.nim-lang.org/
+
+"nixos nix nixpkgs nixops":
+  name: "Nix"
+  description: "Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible."
+  links:
+    website: "https://nixos.org"
+    "Nix Manual": "https://nixos.org/nix/manual"
+    "NixOS Manual": "https://nixos.org/nixos/manual"
+    "Nixpkgs Manual": "https://nixos.org/nixpkgs/manual"
+    "NixOps Manual": "https://nixos.org/nixops/manual"
+    "Nix Pills": "https://nixos.org/nixos/nix-pills"
+    "Wiki": "https://nixos.wiki"
+    "Nixpkgs": "https://github.com/NixOS/nixpkgs"
