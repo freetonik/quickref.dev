@@ -4,8 +4,9 @@ This repo contains data sources for Quickref.dev — a community-driven search e
 
 ## Contributing
 
-- If you want to add a site to the index or add or modify a reference card, please, create a pull request.
+- If you want to add a site to the index, please, open an issue.
 - If you want to add a new bang operator (`!foo`), please, open an issue.
+- If you want to add or modify a reference card, please, create a pull request.
 
 Thank you.
 
