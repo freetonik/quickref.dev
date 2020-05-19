@@ -159,6 +159,8 @@ https://rubyonrails.org
 
 # Rust
 https://rust-lang.org
+https://docs.rs
+https://crates.io
 
 # Graphics
 https://unity.com
