@@ -57,6 +57,8 @@ https://spring.io
 https://readthedocs.org
 https://docs.rs
 https://elixir-lang.org
+https://hex.pm
+https://hexdocs.pm
 https://dart.dev
 https://erlang.org
 https://raspberrypi.org
