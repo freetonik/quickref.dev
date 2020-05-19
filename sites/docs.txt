@@ -88,6 +88,8 @@ https://nginx.com
 https://kotlinlang.org
 https://docs.oracle.com
 https://developer.android.com
+https://openjdk.java.net
+https://wiki.openjdk.java.net
 
 # Clojure
 https://clojure.org

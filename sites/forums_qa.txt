@@ -7,3 +7,4 @@ https://ycombinator.com
 https://lobste.rs/
 https://coderwall.com
 https://grokbase.com
+https://mail.openjdk.java.net
