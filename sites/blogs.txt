@@ -37,6 +37,7 @@ https://tech.trivago.com/
 https://www.intercom.com/blog/
 https://engineering.klarna.com/
 https://blog.algolia.com/
+https://bendyworks.com/blog
 
 # Etc
 https://infoq.com
