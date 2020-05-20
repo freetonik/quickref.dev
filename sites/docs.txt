@@ -64,6 +64,10 @@ https://erlang.org
 https://raspberrypi.org
 https://openssl.org
 http://hyperpolyglot.org
+https://code.jsoftware.com/wiki/Main_Page
+https://en.cppreference.com/w/
+https://dpldocs.info/
+https://dlang.org/spec/spec.html
 
 # .NET
 https://fsharp.org
