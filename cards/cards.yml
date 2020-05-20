@@ -47,6 +47,15 @@
     "Playground": https://play.nim-lang.org
     "Forum": https://forum.nim-lang.org/
 
+"lisp common\ lisp cl":
+  name: "Common Lisp"
+  description: "Common Lisp is the ANSI-standardized programmable programming language. It emphasizes incremental and bottom-up software development. As a Lisp, CL comes from a line of languages going back as far as John McCarthy's original 1958 version."
+  links:
+    "HyperSpec": http://www.lispworks.com/documentation/HyperSpec/Front/
+    "Learn in Y Minutes": https://learnxinyminutes.com/docs/common-lisp/
+    "CLiki": https://www.cliki.net/
+    "Quickdocs": http://quickdocs.org/
+
 "nixos nix nixpkgs nixops":
   name: "Nix"
   description: "Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible."
