@@ -7,6 +7,9 @@ https://medium.com
 https://habr.com/en
 http://scheme.dk/planet
 
+# Private individuals
+https://weinholt.se
+
 # Companies
 https://erlang-solutions.com
 https://blog.cloudflare.com
@@ -37,6 +40,7 @@ https://tech.trivago.com/
 https://www.intercom.com/blog/
 https://engineering.klarna.com/
 https://blog.algolia.com/
+https://www.endian.se/blog/
 
 # Etc
 https://infoq.com
