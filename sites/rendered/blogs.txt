@@ -1,6 +1,10 @@
 https://freecodecamp.org
 https://dev.to
 https://css-tricks.com
+https://hackernoon.com
+https://medium.com
+https://habr.com/en
+http://scheme.dk/planet
 https://erlang-solutions.com
 https://blog.cloudflare.com
 https://eng.uber.com/
@@ -36,3 +40,4 @@ https://acolyer.org
 https://wasmbyexample.dev
 https://ohshitgit.com
 https://www.toptal.com/developers
+https://www.garron.me/
