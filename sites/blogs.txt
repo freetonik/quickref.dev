@@ -12,7 +12,6 @@ https://erlang-solutions.com
 https://blog.cloudflare.com
 https://eng.uber.com/
 https://eng.lyft.com/
-https://netflixtechblog.com/
 https://ai.googleblog.com/
 https://developers.googleblog.com/
 https://research.fb.com/
