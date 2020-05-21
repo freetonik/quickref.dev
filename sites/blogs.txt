@@ -6,6 +6,7 @@ https://hackernoon.com
 https://medium.com
 https://habr.com/en
 http://scheme.dk/planet
+https://codeproject.com/
 
 # Companies
 https://erlang-solutions.com
