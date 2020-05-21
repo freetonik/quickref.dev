@@ -36,6 +36,7 @@ https://tech.trivago.com/
 https://www.intercom.com/blog/
 https://engineering.klarna.com/
 https://blog.algolia.com/
+https://bendyworks.com/blog
 https://www.redhat.com/en/blog
 https://developers.redhat.com/
 
