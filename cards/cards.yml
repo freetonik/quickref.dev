@@ -79,3 +79,13 @@
     "IDE Integration": "https://slscan.io/en/latest/integrations/vscode/"
     "Secure Development": "https://slscan.io/en/latest/secure-development/"
     "Secure Deployment": "https://slscan.io/en/latest/secure-deployment/"
+
+"rust rustlang":
+  name: "Rust"
+  description: "A statically typed, compiled programming language focused on performance and safety, especially safe concurrency. Syntactically similar to C++, but provides memory safety without using garbage collection."
+  links:
+    website: "https://rust-lang.org"
+    "Getting Started": "https://www.rust-lang.org/learn/get-started"
+    "Learn in Y Minutes": "https://learnxinyminutes.com/docs/rust/"
+    "Playground": "https://play.rust-lang.org"
+    "Packages": "https://crates.io"
