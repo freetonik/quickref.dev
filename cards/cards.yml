@@ -46,3 +46,36 @@
     "Tutorial": https://nim-lang.org/docs/tut1.html
     "Playground": https://play.nim-lang.org
     "Forum": https://forum.nim-lang.org/
+
+"lisp common\ lisp cl":
+  name: "Common Lisp"
+  description: "Common Lisp is the ANSI-standardized programmable programming language. It emphasizes incremental and bottom-up software development. As a Lisp, CL comes from a line of languages going back as far as John McCarthy's original 1958 version."
+  links:
+    "HyperSpec": http://www.lispworks.com/documentation/HyperSpec/Front/
+    "Learn in Y Minutes": https://learnxinyminutes.com/docs/common-lisp/
+    "CLiki": https://www.cliki.net/
+    "Quickdocs": http://quickdocs.org/
+
+"nixos nix nixpkgs nixops":
+  name: "Nix"
+  description: "Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible."
+  links:
+    website: "https://nixos.org"
+    "Nix Manual": "https://nixos.org/nix/manual"
+    "NixOS Manual": "https://nixos.org/nixos/manual"
+    "Nixpkgs Manual": "https://nixos.org/nixpkgs/manual"
+    "NixOps Manual": "https://nixos.org/nixops/manual"
+    "Nix Pills": "https://nixos.org/nixos/nix-pills"
+    "Wiki": "https://nixos.wiki"
+    "Nixpkgs": "https://github.com/NixOS/nixpkgs"
+
+"shiftleft scan\ scan":
+  name: "slscan"
+  description: "ShiftLeft Scan is a free open-source security tool for modern DevOps teams. With an integrated multi-scanner based design, ShiftLeft Scan can detect various kinds of security flaws in your application and infrastructure code in a single fast scan."
+  links:
+    website: "https://slscan.io"
+    "Getting Started": "https://slscan.io/en/latest/getting-started/"
+    "CI/CD Integrations": "https://slscan.io/en/latest/integrations/"
+    "IDE Integration": "https://slscan.io/en/latest/integrations/vscode/"
+    "Secure Development": "https://slscan.io/en/latest/secure-development/"
+    "Secure Deployment": "https://slscan.io/en/latest/secure-deployment/"

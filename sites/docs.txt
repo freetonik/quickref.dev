@@ -55,7 +55,6 @@ https://devdocs.io
 https://rstudio.com
 https://spring.io
 https://readthedocs.org
-https://docs.rs
 https://elixir-lang.org
 https://hex.pm
 https://hexdocs.pm
@@ -64,6 +63,10 @@ https://erlang.org
 https://raspberrypi.org
 https://openssl.org
 http://hyperpolyglot.org
+https://code.jsoftware.com/wiki/Main_Page
+https://en.cppreference.com/w/
+https://dpldocs.info/
+https://dlang.org/spec/spec.html
 
 # .NET
 https://fsharp.org
@@ -159,6 +162,8 @@ https://rubyonrails.org
 
 # Rust
 https://rust-lang.org
+https://docs.rs
+https://crates.io
 
 # Graphics
 https://unity.com
@@ -196,3 +201,6 @@ https://srfi.schemers.org
 https://wiki.call-cc.org
 https://www-sop.inria.fr/mimosa/fp/Bigloo
 https://www.scheme.com
+
+# Security
+https://slscan.io

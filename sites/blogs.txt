@@ -6,6 +6,7 @@ https://hackernoon.com
 https://medium.com
 https://habr.com/en
 http://scheme.dk/planet
+https://codeproject.com/
 
 # Private individuals
 https://weinholt.se
@@ -15,7 +16,6 @@ https://erlang-solutions.com
 https://blog.cloudflare.com
 https://eng.uber.com/
 https://eng.lyft.com/
-https://netflixtechblog.com/
 https://ai.googleblog.com/
 https://developers.googleblog.com/
 https://research.fb.com/
@@ -41,6 +41,9 @@ https://www.intercom.com/blog/
 https://engineering.klarna.com/
 https://blog.algolia.com/
 https://www.endian.se/blog/
+https://bendyworks.com/blog
+https://www.redhat.com/en/blog
+https://developers.redhat.com/
 
 # Etc
 https://infoq.com
@@ -49,3 +52,20 @@ https://acolyer.org
 https://wasmbyexample.dev
 https://ohshitgit.com
 https://www.toptal.com/developers
+https://www.garron.me/
+https://martinfowler.com
+https://www.hanselman.com/blog
+https://www.joelonsoftware.com
+https://www.brandonsavage.net
+https://davidwalsh.name
+https://freek.dev
+https://mwop.net/blog
+https://blog.kovah.de/en
+https://blog.ircmaxell.com
+https://matthiasnoback.nl
+https://nikic.github.io
+https://akrabat.com
+https://skoop.dev
+https://mattstauffer.com/blog
+https://alexsexton.com
+https://www.paulirish.com
