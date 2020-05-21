@@ -55,7 +55,6 @@ https://devdocs.io
 https://rstudio.com
 https://spring.io
 https://readthedocs.org
-https://docs.rs
 https://elixir-lang.org
 https://hex.pm
 https://hexdocs.pm
@@ -163,6 +162,8 @@ https://rubyonrails.org
 
 # Rust
 https://rust-lang.org
+https://docs.rs
+https://crates.io
 
 # Graphics
 https://unity.com
