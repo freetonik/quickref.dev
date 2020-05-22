@@ -204,3 +204,9 @@ https://www.scheme.com
 
 # Security
 https://slscan.io
+
+# Crystal
+https://crystal-lang.org/
+
+# Nim
+https://nim-lang.org/
