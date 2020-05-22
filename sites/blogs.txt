@@ -44,6 +44,7 @@ https://www.endian.se/blog/
 https://bendyworks.com/blog
 https://www.redhat.com/en/blog
 https://developers.redhat.com/
+https://evilmartians.com/chronicles
 
 # Etc
 https://infoq.com
