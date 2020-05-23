@@ -23,7 +23,7 @@ There are 5 categories of search on Quickref.dev. Each corresponds to a .txt-fil
 - Blogs (`blogs.txt`)
 - Repositories (`repositories.txt`)
 
-Category "All" is compiled automatically by combining all other categories. Quickref.dev searches in all subdomains. For example, if `https://abc.com` is specified, any subdomain of arbitrary depth (`https://x.abc.com`, `https://y.x.abc.com`, etc) are indexed and searched.
+Category "All" is compiled automatically by combining all other categories. Quickref.dev searches in all subdomains, regardless of depth. For example, if `https://abc.com` is specified, all existing subdomains (`https://x.abc.com`, `https://y.x.abc.com`, etc) are indexed and searched.
 
 ## Cards
 
