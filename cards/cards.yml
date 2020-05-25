@@ -89,3 +89,15 @@
     "Learn in Y Minutes": "https://learnxinyminutes.com/docs/rust/"
     "Playground": "https://play.rust-lang.org"
     "Packages": "https://crates.io"
+
+"solidity sol":
+  name: "Solidity"
+  description: "Solidity is a statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform."
+  links:
+    "Documentation": "https://solidity.readthedocs.io/"
+    "Q&A forum": "https://ethereum.stackexchange.com/"
+    "Getting Started": "https://ethereumdev.io/getting-started-with-solidity-smart-contract/"
+    "Learn in Y Minutes": "https://learnxinyminutes.com/docs/solidity/"
+    "Online IDE": "https://remix.ethereum.org/"
+    "Secure Development": "https://consensys.github.io/smart-contract-best-practices/"
+    subreddit: "https://www.reddit.com/r/solidity/"
