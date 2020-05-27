@@ -113,3 +113,14 @@
     "Mailing list": "https://www.python.org/community/lists/"
     forum: "https://www.python.org/community/forums/"
     subreddit: "https://www.reddit.com/r/Python/"
+
+"aosp":
+  name: "AOSP"
+  description: "Android Open Source Project (AOSP) is a production quality Open Source Software for Embedded Devices such as Mobiles, Tablets, TV’s by GOOGLE inc ."
+  links:
+    website: "https://source.android.com/"
+    "Android Repository": "https://android.googlesource.com/"
+    quickstart: "https://source.android.com/setup/start"
+    "Gerrit Code Review": "https://gerrit-review.googlesource.com/"
+    irc: "irc://irc.freenode.net/android"
+    subreddit: "https://www.reddit.com/r/AOSP/"
