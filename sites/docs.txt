@@ -6,6 +6,7 @@ https://tensorflow.org
 https://pandas.pydata.org
 https://pytorch.org
 http://palletsprojects.com
+https://readthedocs.org
 
 # JavaScript & JS VM
 https://v8.dev
