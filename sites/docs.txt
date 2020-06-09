@@ -126,6 +126,7 @@ https://gohugo.io/
 https://php.net
 https://laravel.com
 https://drupal.org
+https://symfony.com
 
 # Haskell
 https://haskell.org
