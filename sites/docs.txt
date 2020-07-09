@@ -121,6 +121,7 @@ https://atom.io/
 # CMS
 https://wordpress.org
 https://gohugo.io/
+https://docs.craftcms.com
 
 # PHP
 https://php.net
