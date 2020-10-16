@@ -1,3 +1,7 @@
+This project was shut down in September 2020.
+
+---
+
 # Quickref.dev Community Sources
 
 This repo contains data sources for Quickref.dev — a community-driven search engine for software developers. `sites` contains lists of sites to index, grouped by category. `cards` contains reference cards ([example in action](https://quickref.dev/search?q=clojure&type=all)).
